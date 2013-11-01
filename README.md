@@ -1,7 +1,7 @@
 Sublime 3 Notepad++ Theme
 ===============================
 
-For those who like the look & feel of Notepadd+ but the awesomeness of Sublime Text. This is for you!
+For those who like the look & feel of Notepad+ but the awesomeness of Sublime Text. This is for you!
 
 Load together with Soda Theme (light) for the ultimate Sublime experience!
 
