@@ -10,12 +10,12 @@ For those who like <strong>the look & feel of Notepad++ but the awesomeness of S
 1. Download & Install Sublime 3.
 2. Install Sublime Package Manager (https://sublime.wbond.net/installation)
 3. Add Soda Theme (https://github.com/buymeasoda/soda-theme)
-4. Clone this Theme (repo) into <i>~/AppData/Local/Sublime Text 3/Cache/</i>
+4. Go to <i>Preferences > Browse Packages...</i> and clone this theme into there (<i>~/AppData/Roaming/Sublime Text 3/Packages/</i>)
 4. Add the following into <i>Preferences > Settings > User</i>
 <pre><code>
 {
        "autoIndent": true,
-       "color_scheme": "Cache/Sublime3-Theme-NotepadPlusPlus/Notepad-Plus-Plus.tmTheme",
+       "color_scheme": "Packages/Theme - NotepadPlusPlus/Notepad-Plus-Plus.tmTheme",
        "copyOnMouseSelect": false,
        "drawWhiteSpace": "none",
        "font_face": "Courier New",
